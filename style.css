@@ -1,0 +1,59 @@
+  body{
+    margin: 0%;
+    padding: 0%;
+} 
+ #changeBgColor{
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+    background-color: transparent;
+    padding: 15px;
+    border-radius:10px;
+    font-size: large;
+    font-weight: bolder;
+    border: 2.5px solid black;
+} 
+
+section{
+    padding: 200px;
+}
+div{
+    /* text-align: center; */
+    border: 2.5px solid black;
+    width:100%;
+    max-width: 400px;
+    margin: auto;
+    font-size:x-large;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+} 
+
+/* Extra small devices (phones, 600px and down) */
+    /* @media only screen and (max-width: 600px) {
+        body{max-width: 100%;}
+    } */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {
+    div{
+    margin-left: 165px;
+    }
+} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {
+    body{
+        max-width: 100%;
+    }
+} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {
+    div{
+    margin-left: 500px;
+    }
+} */
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* @media only screen and (min-width: 1200px) {} */
